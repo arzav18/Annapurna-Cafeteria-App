@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503689892987",
+    "firebase_url": "https://annapurna-menu-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "annapurna-menu",
+    "storage_bucket": "annapurna-menu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503689892987:android:7a7e002cf2b333c264fede",
+        "android_client_info": {
+          "package_name": "com.example.canteen_food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503689892987-843mviqu9f2b9rblkhs5uo16m2k0cacs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxvdhGTH4auEgSK9v104zpmP29JtE0fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503689892987-843mviqu9f2b9rblkhs5uo16m2k0cacs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
